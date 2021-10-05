@@ -1,0 +1,13 @@
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\obj\Debug\netcoreapp3.1\DatalogiLektion1.csprojAssemblyReference.cache
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\obj\Debug\netcoreapp3.1\DatalogiLektion1.AssemblyInfoInputs.cache
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\obj\Debug\netcoreapp3.1\DatalogiLektion1.AssemblyInfo.cs
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\obj\Debug\netcoreapp3.1\DatalogiLektion1.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\bin\Debug\netcoreapp3.1\DatalogiLektion1.exe
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\bin\Debug\netcoreapp3.1\DatalogiLektion1.deps.json
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\bin\Debug\netcoreapp3.1\DatalogiLektion1.runtimeconfig.json
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\bin\Debug\netcoreapp3.1\DatalogiLektion1.runtimeconfig.dev.json
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\bin\Debug\netcoreapp3.1\DatalogiLektion1.dll
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\bin\Debug\netcoreapp3.1\DatalogiLektion1.pdb
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\obj\Debug\netcoreapp3.1\DatalogiLektion1.dll
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\obj\Debug\netcoreapp3.1\DatalogiLektion1.pdb
+C:\Users\ander\source\repos\DatalogiLektion1\DatalogiLektion1\obj\Debug\netcoreapp3.1\DatalogiLektion1.genruntimeconfig.cache

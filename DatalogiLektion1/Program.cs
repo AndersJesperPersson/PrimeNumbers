@@ -7,7 +7,8 @@
     {
         static void Main(string[] args)
         {
-
+            var Start = new View();
+            Start.Start();
 
         }
                 

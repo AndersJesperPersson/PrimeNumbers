@@ -6,7 +6,7 @@ namespace PrimeNrTest
     //My Test class. I Hope my method names are clear enough to tell what the tests are for.
 
     [TestClass]
-    public class UnitTest1
+    public class CalculatorTest
     {
         [TestMethod]
         [DataRow(2)]

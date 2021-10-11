@@ -1,14 +1,13 @@
 namespace PrimeNrTest
 {
-    using Microsoft.VisualStudio.TestTools.UnitTesting;
     using DatalogiLektion1;
+    using Microsoft.VisualStudio.TestTools.UnitTesting;
 
+    //My Test class. I Hope my method names are clear enough to tell what the tests are for.
 
     [TestClass]
     public class UnitTest1
     {
-     
-      
         [TestMethod]
         [DataRow(2)]
         [DataRow(3)]
@@ -23,8 +22,6 @@ namespace PrimeNrTest
         {
             var result = PrimeCalculator.IsPrime(x);
             Assert.IsTrue(result);
-
-   
         }
 
         [TestMethod]
@@ -39,12 +36,10 @@ namespace PrimeNrTest
         [DataRow(875636)]
         public void EvenNumber(double x)
         {
-
             var result = PrimeCalculator.IsPrime(x);
             Assert.IsFalse(result);
-
-
         }
+
         [TestMethod]
         [DataRow(21)]
         [DataRow(15)]
@@ -54,11 +49,8 @@ namespace PrimeNrTest
         [DataRow(12365478112121)]
         public void OddNumber(double x)
         {
-
             var result = PrimeCalculator.IsPrime(x);
             Assert.IsFalse(result);
-
-
         }
 
         [TestMethod]
@@ -66,11 +58,8 @@ namespace PrimeNrTest
         [DataRow(5.5)]
         public void DecimalNumber(double x)
         {
-
             var result = PrimeCalculator.IsPrime(x);
             Assert.IsFalse(result);
-
-
         }
     }
 }

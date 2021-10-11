@@ -21,7 +21,7 @@ namespace PrimeNrTest
         [DataRow(97)]
         public void PrimeNumbers(double x)
         {
-            var result = Prime.IsPrime(x);
+            var result = PrimeCalculator.IsPrime(x);
             Assert.IsTrue(result);
 
    
@@ -40,7 +40,7 @@ namespace PrimeNrTest
         public void EvenNumber(double x)
         {
 
-            var result = Prime.IsPrime(x);
+            var result = PrimeCalculator.IsPrime(x);
             Assert.IsFalse(result);
 
 
@@ -55,7 +55,19 @@ namespace PrimeNrTest
         public void OddNumber(double x)
         {
 
-            var result = Prime.IsPrime(x);
+            var result = PrimeCalculator.IsPrime(x);
+            Assert.IsFalse(result);
+
+
+        }
+
+        [TestMethod]
+        [DataRow(2.4)]
+        [DataRow(5.5)]
+        public void DecimalNumber(double x)
+        {
+
+            var result = PrimeCalculator.IsPrime(x);
             Assert.IsFalse(result);
 
 

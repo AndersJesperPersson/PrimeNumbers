@@ -26,8 +26,7 @@
         }
 
         /// <summary>
-        /// Adds the number to the List, if it dosen´t already exists and the list have less then 1000 elements.
-        /// According to https://developer.salesforce.com/forums/?id=906F0000000MMUfIAO a list can´t hold more items.
+        /// Adds the number to the List, if it dosen´t already exists.
         /// </summary>
         /// <param name="x"></param>
         /// <returns>true if added, false if not.</returns>
@@ -46,7 +45,7 @@
 
         /// <summary>
         /// Finds the next prime by sorting the list, pick the highest value in the list and then increase by one and check if its a prime.
-        /// If not, increase the number with 1 again and do the check.
+        /// If not, increase the number with 1 again and do the check all over again.
         /// </summary>
         /// <returns>the number of next prime.</returns>
         public static double NextPrime()

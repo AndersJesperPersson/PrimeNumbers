@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bkqWlOdaiYJZ/Ume5CZmRML3BzKNzm8cLxRP1aXXrGE98IOJ00sDgOrjeMJ0sRn7l1u3+IHTb6bLAAlSiWMoMQ==",
+  "dgSpecHash": "VsDRSVupBZEtl/8ucvpR94oXV2FmYzstDIRAGJnCvb2qvhHJOhd9dRWtLQQXIvb2RzD7xYcytJG+wRreq4GVlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ander\\source\\repos\\DatalogiLektion1\\PrimeNrTest\\PrimeNrTest.csproj",
+  "projectFilePath": "C:\\Users\\ander\\source\\repos\\Skoluppgifter\\DatalogiLektion1\\PrimeNrTest\\PrimeNrTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ander\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
